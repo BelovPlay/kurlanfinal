@@ -7870,6 +7870,11 @@ hr{
     }
 }
 @media (max-width:800px){
+    .boldering{
+        padding-top:25px;
+        padding-bottom: 25px;
+        display:inline-block;
+    }
     #rozigrish h2{
         border-bottom:1px solid black;
         width: 350px;
