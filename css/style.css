@@ -7954,7 +7954,7 @@ hr{
 }
 .description__inner{
     display:flex;
-    justify-content:space-between;
+    flex-direction:column;
 }
 .soc__links-header{
     padding-top: 50px;
