@@ -7949,10 +7949,6 @@ hr{
     margin-right:0px;
     padding-right:-50px;
 }
-.description__inner{
-    display:flex;
-    flex-direction:column;
-}
 .soc__links-header{
     padding-top: 50px;
 }
