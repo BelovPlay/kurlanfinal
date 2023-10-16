@@ -5113,6 +5113,17 @@ input.oper{
 .navig-border-left{
     border-left:1px solid #000;
 }
+.nav-navig{
+    width:65%;
+}
+.nav-navig{
+    display:flex;
+    justify-content:space-around;
+    width:900px;
+}
+.navig-border-left{
+    padding-left:25px;
+}
 .dop-otst{
     padding-bottom:50px;
 }
@@ -7880,4 +7891,16 @@ hr{
 }
 .skidka-pc-li{
     font-size:32px;
+}
+.adress{
+    margin-top:25px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+#rozigrish{
+    margin:-50px;
+}
+.nav-graphik{
+    margin-right:0px;
+    padding-right:-50px;
 }
