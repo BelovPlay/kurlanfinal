@@ -5107,7 +5107,14 @@ input.oper{
     transform:rotate(180deg);
 }
 .ll{
-    height:500px;
+    height:550px;
+    display:none;
+}
+.navig-border-left{
+    border-left:1px solid #000;
+}
+.dop-otst{
+    padding-bottom:50px;
 }
 .navigation__item--border-b{
     width:450px;
