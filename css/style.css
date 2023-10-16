@@ -3017,6 +3017,9 @@ span.bold {
     }
 }
 @media (max-width: 541px) {
+    .skidka-mb{
+        display:none;
+    }
     .menu__btn-open {
         margin-left: -100px;
     }
