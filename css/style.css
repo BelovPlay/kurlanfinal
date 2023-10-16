@@ -7870,6 +7870,12 @@ hr{
     }
 }
 @media (max-width:800px){
+    #rozigrish h2{
+        border-bottom:1px solid black;
+        width: 350px;
+        padding-bottom:50px;
+        margin-left:20px;
+    }
     .dop-otst,.rasst-left,.text-bold{
         margin-left:0px;
     }
