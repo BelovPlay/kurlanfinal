@@ -7893,6 +7893,12 @@ hr{
     #rozigrish h2{
         margin-top:50px;
     }
+    .map__title-mb{
+        padding-top:50px;
+    }
+    #rozigrish h2{
+        margin-left:60px;
+    }
 }
 .skidka-mb-li{
     display:none;
