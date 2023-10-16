@@ -7844,4 +7844,7 @@ hr{
     .dop-otst,.rasst-left{
         margin-left: 0px;
     }
+    a.btn__faq{
+        margin-left:10px;
+    }
 }
