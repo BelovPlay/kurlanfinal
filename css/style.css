@@ -3016,9 +3016,6 @@ span.bold {
     }
 }
 @media (max-width: 541px) {
-    .skidka-mb{
-        display:none;
-    }
     .menu__btn-open {
         margin-left: -100px;
     }
@@ -7933,9 +7930,6 @@ hr{
     #rozigrish h2{
         margin-left:60px;
     }
-}
-.skidka-mb-li{
-    display:none;
 }
 .skidka-pc-li{
     font-size:32px;
