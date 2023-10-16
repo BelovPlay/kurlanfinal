@@ -7857,4 +7857,8 @@ hr{
     .sales__firstListli{
         border:none;
     }
+    .header__inner{
+        margin-top: 0px;
+        padding-top: 0px;
+    }
 }
