@@ -7890,6 +7890,9 @@ hr{
     .skidka-pc-li{
         display:none;
     }
+    #rozigrish h2{
+        margin-top:50px;
+    }
 }
 .skidka-mb-li{
     display:none;
@@ -7922,5 +7925,5 @@ hr{
     margin-top:50px;
 }
 .adress{
-    padding-bottom: 50px;
+    padding-bottom:5px;
 }
