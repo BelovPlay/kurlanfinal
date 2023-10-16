@@ -2794,6 +2794,9 @@ span.bold {
     }
 }
 @media (max-width: 769px) {
+    .skidka-mb{
+        display:none;
+    }
     .menu__btn-open {
         margin-left: -200px;
     }
@@ -7971,5 +7974,16 @@ hr{
     .overlay{
         width: 100%;
         height: 100%;
+    }
+    .skidka-mb{
+        display:inline-block;
+    }
+    .skidka-pc{
+        display:none;
+    }
+}
+@media(min-width:800px){
+    .skidka-mb{
+        display:none;
     }
 }
