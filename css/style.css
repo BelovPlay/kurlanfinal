@@ -4647,6 +4647,10 @@ iframe.video__footer{
     .soc__links-header img, .header__logo img, .header__phone-text img{
         height:60px;
     }
+    img.logo__img{
+        height:90px;
+        margin-right:-20px;
+    }
 }
 .services__items-row{
     display:flex;
@@ -5189,6 +5193,15 @@ input.oper{
     }
     .link-more{
         display:none;
+    }
+    .block-modalclosew{
+        position: relative;
+    }
+    #closemodalw{
+        position:absolute;
+        left:440px;
+        top:1000px;
+        margin-top: 1000px;
     }
 }
 @media (max-width: 1441px){
@@ -7868,6 +7881,11 @@ hr{
     .adress{
         margin-top: 25px;
     }
+    #closemodalw{
+        position:absolute;
+        top:120px;
+        left:1660px;
+    }
 }
 @media (max-width:800px){
     .boldering{
@@ -7948,4 +7966,16 @@ hr{
 }
 .adress{
     padding-bottom:5px;
+}
+@media(win-width:548px){
+    #closemodalw{
+
+        position:absolute;
+        top:120px;
+        left:1660px;
+    }
+    .overlay{
+        width: 100%;
+        height: 100%;
+    }
 }
