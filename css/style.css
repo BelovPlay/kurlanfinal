@@ -7598,6 +7598,9 @@ form h3.neon{
         padding-top:25px;
         border-top:2px solid black;
     }
+    a.navigation__btn,.open-modal-krl,.link-menu-file{
+        margin-left:0px;
+    }
 }
 #sum,#kolvo,#percent,#Name,#Email,#Phone{
     width: 200px;
@@ -7827,4 +7830,10 @@ hr{
 .navigation__item--border-b{
     margin-bottom: 0px;
     padding-bottom: 0px;
+}
+.modal__block{
+    text-align-last: left;
+}
+.dop__title{
+    margin-top:50px;
 }
