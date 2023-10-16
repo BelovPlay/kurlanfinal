@@ -7864,6 +7864,11 @@ hr{
     display:inline-block;
     padding-bottom:25px;
 }
+@media(min-width:800px){
+    .adress{
+        margin-top: 25px;
+    }
+}
 @media (max-width:800px){
     .dop-otst,.rasst-left,.text-bold{
         margin-left:0px;
