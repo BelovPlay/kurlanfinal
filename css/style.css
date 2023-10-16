@@ -7837,6 +7837,11 @@ hr{
 .dop__title{
     margin-top:50px;
 }
-.rasst-left{
+.rasst-left,.dop-otst{
     margin-left: 30px;
+}
+@media (max-width:800px){
+    .dop-otst,.rasst-left{
+        margin-left: 0px;
+    }
 }
