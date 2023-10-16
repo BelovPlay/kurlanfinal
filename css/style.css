@@ -7840,11 +7840,18 @@ hr{
 .rasst-left,.dop-otst{
     margin-left: 30px;
 }
+.big-company{
+    display:inline-block;
+    padding-bottom:25px;
+}
 @media (max-width:800px){
     .dop-otst,.rasst-left{
         margin-left: 0px;
     }
     a.btn__faq{
         margin-left:10px;
+    }
+    .sales__firstListli{
+        border:none;
     }
 }
