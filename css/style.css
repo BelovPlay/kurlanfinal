@@ -7886,6 +7886,10 @@ hr{
         top:120px;
         left:1660px;
     }
+    .navigation__inner{
+        width:1600px;
+        margin-left:-150px;
+    }
 }
 @media (max-width:800px){
     .boldering{
@@ -7957,6 +7961,15 @@ hr{
     border:none;
     margin-top:50px;
 }
+.kurlanneon{
+    margin-top:10px;
+}
+.kurlanneondate{
+    line-height:30px;
+}
+.kurlanneonpc{
+    line-height:1;
+}
 .adress{
     padding-bottom:5px;
 }
@@ -7979,7 +7992,18 @@ hr{
     }
 }
 @media(min-width:800px){
-    .skidka-mb{
+    .skidka-mb,.kurlanneonmb{
         display:none;
     }
+}
+@media(max-width:800px){
+    .kurlanneonmb{
+        display:none;
+    }
+}
+.kurlanneonpc{
+    font-size:20px;
+}
+.black-neon{
+    color:#000;
 }
